@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="NeedIt - Last Quarter">a3c1a152db3333009e832a9a48961937</data_item>
+        <description>View my Last Quarter NeedIt records</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="list-alt">5ffea61edbf333009e832a9a4896193e</icon>
+        <item_view display_value="NeedIt Last Quarter detail item view">effea61edbf333009e832a9a48961943</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>7bfea61edbf333009e832a9a48961947</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>victor.limbach</sys_created_by>
+        <sys_created_on>2019-09-12 13:13:40</sys_created_on>
+        <sys_id>cc0fa61edbf333009e832a9a48961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_details_screen_cc0fa61edbf333009e832a9a48961996</sys_update_name>
+        <sys_updated_by>victor.limbach</sys_updated_by>
+        <sys_updated_on>2019-09-12 13:13:40</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>

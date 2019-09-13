@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Update priority">b07afa16db3733009e832a9a48961954</button>
+        <item_parameter display_value="Update Priority">22b73e92db3733009e832a9a489619c7</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>victor.limbach</sys_created_by>
+        <sys_created_on>2019-09-12 14:18:53</sys_created_on>
+        <sys_id>8addbe96db3733009e832a9a489619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>22b73e92db3733009e832a9a489619c7</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_8addbe96db3733009e832a9a489619f1</sys_update_name>
+        <sys_updated_by>victor.limbach</sys_updated_by>
+        <sys_updated_on>2019-09-12 14:18:53</sys_updated_on>
+        <ui_parameter display_value="Change Priority">1b5d7a96db3733009e832a9a48961976</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
